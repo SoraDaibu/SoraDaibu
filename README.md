@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: creating/building a dapp that helps world, especially developing countries children live, better!
 - 💬 Ask me about: Anything. I love traveling and creating things that impact people in a good way.
 - 📫 How to reach me: soradaibu141221@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I spreak three languages (Japanese 🇯🇵, English 🇺🇸, Spanish a bit🇪🇸)
 
