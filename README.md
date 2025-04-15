@@ -2,9 +2,9 @@
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on: developing dapps 🧑‍💻🌐
-- 🌱 I’m currently learning: how to grow products, buidl ReFi products, blockchain eco-systems, an expansion of ERC-4337 🚀🌱⛓️
-- 👯 I’m looking to collaborate on: creating/building a dapp that helps world, especially children's lives in the developing countries, better 🌍🕊️
+- 🔭 I’m currently working on: developing mobile app, robust backend, recommendation system, integrating apps with LLM 🧑‍💻🌐
+- 🌱 I’m currently learning: how to grow products, build recommendation system, develop a good mobile app 🚀 🔍 📱
+- 👯 I’m looking to collaborate on: creating/building an app that helps world to be better, such as helping workers to work more efficiently, helping children's lives in the developing countries 🌍🕊️
 - 💬 Ask me about: Anything. I love traveling and buidling things that give good impacts to people 😆📈
 - ⚡ Fun fact: I spreak three languages (Japanese 🇯🇵, English 🇺🇸, Spanish🇪🇸) and understand a bit of Catalan.
 
